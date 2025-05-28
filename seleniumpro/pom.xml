@@ -22,7 +22,7 @@
  </build>
    </profile>
     <profile>
-  <id>SM</id>
+  <id>RT</id>
    <build>
   <plugins>
     <plugin>
